@@ -43,7 +43,7 @@ In `./src`, create a file called `config.json` and add the following config:
 // Currently, all values are required
 {
     "name": "Tau", // The application name displayed in some commands
-    "repository": "https://github.com/emisdumb/tau",
+    "repository": "https://github.com/rootrascal/tau",
     "version": "3.0.0",
 
     "id": 0, // The application ID
